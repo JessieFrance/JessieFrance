@@ -21,7 +21,7 @@
       <td><a href="https://chrome.google.com/webstore/detail/repository-tracker/pidkkdkplogkjahekhddnikenfplmocg" target="_blank">Chrome extension</a> that tracks GitHub repositories</td>	
     </tr>
     <tr>
-      <td><a href="https://github.com/JessieFrance/shelljs-plugin-help" target="_blank">simple-nodejs-password</a></td>
+      <td><a href="https://github.com/JessieFrance/simple-nodejs-password" target="_blank">simple-nodejs-password</a></td>
       <td>TypeScript</td>
       <td><a href="https://www.npmjs.com/package/simple-nodejs-password" target="_blank">NPM package</a> for hashing passwords</td>
     </tr>
